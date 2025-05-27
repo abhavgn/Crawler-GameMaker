@@ -1,0 +1,1 @@
+object_set_visible(obj_life1, false);

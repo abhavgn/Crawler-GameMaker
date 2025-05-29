@@ -1,0 +1,1 @@
+global.mouseTouchC5 = 0;

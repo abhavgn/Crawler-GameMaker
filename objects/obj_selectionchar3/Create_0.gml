@@ -1,0 +1,1 @@
+global.mouseTouchC3 = 0;

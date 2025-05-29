@@ -9,3 +9,5 @@ lives = 3;
 initx = x;
 
 inity = y;
+
+sprite_index = global.spriteD;

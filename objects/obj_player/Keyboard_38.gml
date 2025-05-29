@@ -1,9 +1,9 @@
-sprite_index = spr_playerU;
+sprite_index = global.spriteU;
 
 if (image_speed != 1)
 {
 	
-	image_speed = 1;	
+	image_speed = 0.7;	
 	
 }
 

@@ -1,10 +1,10 @@
-sprite_index = spr_playerD;
+sprite_index = global.spriteD;
 
 if (image_speed != 1)
 {
 	
-	image_speed = 1;	
-	
+	image_speed = 0.7;
+
 }
 
 

@@ -141,7 +141,6 @@
     {"id":{"name":"spr_playerU","path":"sprites/spr_playerU/spr_playerU.yy",},},
     {"id":{"name":"spr_startbg","path":"sprites/spr_startbg/spr_startbg.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
-    {"id":{"name":"spr_yourcharTXT","path":"sprites/spr_yourcharTXT/spr_yourcharTXT.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

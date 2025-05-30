@@ -111,6 +111,5 @@
     {"name":"spr_playerU","order":13,"path":"sprites/spr_playerU/spr_playerU.yy",},
     {"name":"spr_startbg","order":2,"path":"sprites/spr_startbg/spr_startbg.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
-    {"name":"spr_yourcharTXT","order":58,"path":"sprites/spr_yourcharTXT/spr_yourcharTXT.yy",},
   ],
 }

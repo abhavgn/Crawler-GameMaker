@@ -8,19 +8,9 @@ if (image_speed != 1)
 }
 
 
-if (!place_meeting(x + my_speed, y, obj_wall))
+if (place_free(x + my_speed, y))
 {
 	
-	if (!place_meeting(x + my_speed, y, obj_golddoor))
-	{
-		
-		if (!place_meeting(x + my_speed, y, obj_boulder))
-		{
-			
-			x = x + my_speed;	
-			
-		}
-		
-	}
-
+	x = x + my_speed;
+	
 }

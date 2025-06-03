@@ -3,13 +3,14 @@
   "%Name":"obj_baddie1",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_baddie1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Bad Guys",
+    "path":"folders/Objects/Bad Guys.yy",
   },
   "parentObjectId":{
     "name":"obj_baddie",
@@ -33,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_baddie",
-    "path":"sprites/spr_baddie/spr_baddie.yy",
+    "name":"spr_baddieD",
+    "path":"sprites/spr_baddieD/spr_baddieD.yy",
   },
   "spriteMaskId":null,
   "visible":true,

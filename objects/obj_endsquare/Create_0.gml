@@ -1,0 +1,1 @@
+global.show = 0;

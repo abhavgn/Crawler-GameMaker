@@ -1,0 +1,19 @@
+{
+  "$GMPath":"",
+  "%Name":"path_badguy",
+  "closed":false,
+  "kind":0,
+  "name":"path_badguy",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":1696.0,"y":288.0,},
+    {"speed":100.0,"x":1696.0,"y":512.0,},
+    {"speed":100.0,"x":1248.0,"y":512.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

@@ -1,1 +1,1 @@
-room_goto(rm_play1);
+room_goto(rm_instructions);

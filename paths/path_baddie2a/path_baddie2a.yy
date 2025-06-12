@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"path_baddie2a",
+  "closed":false,
+  "kind":0,
+  "name":"path_baddie2a",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":1696.0,"y":352.0,},
+    {"speed":100.0,"x":2016.0,"y":352.0,},
+    {"speed":100.0,"x":2016.0,"y":1248.0,},
+    {"speed":100.0,"x":224.0,"y":1248.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

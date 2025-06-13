@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_goldkey",
+  "%Name":"snd_loseLife",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.731636,
-  "name":"snd_goldkey",
+  "duration":0.837182,
+  "name":"snd_loseLife",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_goldkey.wav",
+  "soundFile":"snd_loseLife.wav",
   "type":0,
   "volume":1.0,
 }
